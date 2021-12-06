@@ -6,4 +6,4 @@ Premiere + TouchDesigner で簡易タイムラインを作る - Qiita
 https://qiita.com/chimanaco/items/0375fde604faecf37983
 
 
-TouchDesigner 2020.27390
+TouchDesigner 2021.15800
